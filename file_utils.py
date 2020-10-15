@@ -61,13 +61,13 @@ def load_json_data(src_path: str, is_eot_token: bool = False):
                         p += 1
                         present_keywords.append(f'{p_start} {" ".join(tokenizer.morphs(keyword, stem=True))}')
 
-            all_keywords = present_keywords + absent_keywords
-            all_keywords = f' {delimiter} '.join(all_keywords)
-            abstract.append(content.strip())
-            word.append(all_keywords.strip())
+                all_keywords = present_keywords + absent_keywords
+                all_keywords = f' {delimiter} '.join(all_keywords)
+                abstract.append(content.strip())
+                word.append(all_keywords.strip())
         f.close()
 
-    print(f'total data number => {len(content)}')
+    print(f'total data number => {len(abstract)}')
     print(f'total present keywords => {p}')
     print(f'total absent keywords => {a}')
 

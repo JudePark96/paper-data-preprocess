@@ -1971,7 +1971,6 @@
 <p_start> 음성 쇼핑 ; <p_start> 사용자 주도 ; <p_start> 상호 주도 ; <a_start> 대화 형 에이전트 ; <a_start> 대화 주도 권 전략 ; <a_start> 제품 유형 ; <a_start> voice shopping ; <a_start> conversational agent ; <a_start> initiative strategies ; <a_start> user initiative dialogue ; <a_start> mixed initiative dialogue ; <a_start> recommendation strategy
 <a_start> small go board ( 소형 바둑판 ) ; <a_start> montecarlo tree search ( 몬테카를로 트리 탐색 ) ; <a_start> promising first move ( 유망 한 첫 수 ) ; <a_start> odd and evensized go boards ( 홀수형 과 짝수 형 바둑판 들 )
 <p_start> 알고리즘 ; <a_start> 포스트 텍스트 ; <a_start> 컴퓨터 연산 ; <a_start> 오레오 쿠키 구조 ; <a_start> 인공 지능 ; <a_start> posttext ; <a_start> computation ; <a_start> algorithm ; <a_start> oreo cookie structure ; <a_start> artificial intelligence
-
 <p_start> 드론 ; <p_start> 성범죄 ; <a_start> 자율 주 행차 ; <a_start> 스마트 치안 ; <a_start> autonomous car ; <a_start> drone ; <a_start> sexual crime ; <a_start> smart policing
 <a_start> 게임 과 몰입 ( game addiction ) ; <a_start> 탐지 시스템 ( detection system ) ; <a_start> 게이머 모델링 ( gamer modeling ) ; <a_start> 게임 인공 지능 ( game artificial intelligence ) ; <a_start> 게임 과 몰입 대응 ( game addiction response )
 <p_start> 악성코드 ; <p_start> ai ; <p_start> blockchain ; <a_start> 블록 체인 ; <a_start> 암호 화폐 ; <a_start> 원장 ; <a_start> 인공 지능 ; <a_start> cryptocurrency ; <a_start> ledger ; <a_start> malicious code
@@ -2052,7 +2051,6 @@
 <p_start> 사이버네틱스 ; <p_start> 생명 ; <p_start> 미술 ; <p_start> 공간 ; <p_start> 시간 ; <p_start> 노버트 위너 ; <p_start> 로이 애스콧 ; <p_start> 스텔락 ; <p_start> 최우람 ; <a_start> 사이버 네 틱 아트 ; <a_start> cybernetics ; <a_start> life ; <a_start> visual arts ; <a_start> space ; <a_start> time ; <a_start> cybernetic art ; <a_start> nobert wiener ; <a_start> roy ascott ; <a_start> stelarc ; <a_start> uram choi
 <a_start> 4 차 산업혁명 ( the forth industrial internet ) ; <a_start> 사이버 물리 시스템 ( cyberphysical system ) ; <a_start> 사물인터넷 ( internet of things ) ; <a_start> 산업 인터넷 ( industrial internet of things ) ; <a_start> 스마트 시티 ( smart city ) ; <a_start> 인공 지능 ( artificial intelligence ) ; <a_start> 기계학습 ( machine learning )
 <p_start> 스마트폰 이용 유형 ; <p_start> 랜덤 포레스트 ; <a_start> problematic smartphone use ; <a_start> machine learning ; <a_start> smartphone use type ; <a_start> decision tree ; <a_start> random forest ; <a_start> support vector machine ; <a_start> 스마트폰 과 의존 ; <a_start> 기계 학습 ; <a_start> 의사결정 기법 ; <a_start> 서 포트 벡터 머신
-
 <p_start> 빅데이터 ; <p_start> 넷플릭스 ; <a_start> 영화 산업 ; <a_start> 자연어 처리 분석 ; <a_start> 기계학습 기법 ; <a_start> film industry ; <a_start> big data ; <a_start> netflix ; <a_start> natural language processing analysis ; <a_start> machine learning
 <p_start> 빅데이터 ; <a_start> 고전 문학연구 ; <a_start> 디지털 인문학 ; <a_start> 인공 지능 인문학 ; <a_start> big data ; <a_start> classical literature research ; <a_start> language analysis ; <a_start> network analysis ; <a_start> spatial analysis ; <a_start> digital humanities ; <a_start> artificial intelligence humanities
 <p_start> 빅 데이터 ; <p_start> 신문 ; <p_start> 토픽 모델링 ; <p_start> 네트워크 분석 ; <a_start> 코퍼스 ; <a_start> 롱 데이터 ; <a_start> 텍스트 마 이닝 ; <a_start> 어휘 의미 변화 탐지 ; <a_start> 통계 적 키 워드 ; <a_start> corpus ; <a_start> big data ; <a_start> long data ; <a_start> newspaper ; <a_start> text mining ; <a_start> detection of lexical meaning change ; <a_start> statistical keyword analysis ; <a_start> topic modeling ; <a_start> network analysis
@@ -2433,7 +2431,6 @@
 <p_start> 전기자동차 ; <a_start> 사운드 디자인 ; <a_start> 소프트웨어 신디사이저 ; <a_start> 엔진 사운드 ; <a_start> electric vehicle ; <a_start> sound design ; <a_start> software synthesizer ; <a_start> engine sound
 <p_start> dtv ; <a_start> cpw 급전 루프 안테나 ; <a_start> 광대역 안테나 ; <a_start> 접지 면 슬롯 ; <a_start> cpwfed loop antenna ; <a_start> wideband antenna ; <a_start> ground slots ; <a_start> digital tv ( dtv )
 <p_start> 무선 근거리 네트워크 ; <p_start> 멀티미디어 ; <p_start> 캐싱 ; <a_start> 차세대 이동통신 ; <a_start> wireless local area network ( wlan ) ; <a_start> multimedia ; <a_start> caching ; <a_start> next generation mobile communications
-
 <p_start> 로그 처리 ; <p_start> 메시지 레이어 ; <p_start> kafka ; <p_start> rabbitmq ; <a_start> 메시 징 시스템 ; <a_start> 카프카 ; <a_start> 레빗엠큐 ; <a_start> log processing ; <a_start> messaging system ; <a_start> message layer
 <p_start> spice ; <a_start> 드 레인 유도 장벽 감소 ; <a_start> 이중 게이트 mosfet ; <a_start> 정적 궤 환계 수 ; <a_start> drain induced barrier lowering ; <a_start> double gate mosfet ; <a_start> static feedback coefficient
 <a_start> 비 접촉 방식 ; <a_start> 상태 감시 ; <a_start> 유도 성 커플 러 ; <a_start> 지하 공 동구 ; <a_start> 화상 시스템 ; <a_start> condition monitoring ; <a_start> inductive coupler ; <a_start> noncontact ; <a_start> underground utility tunnel ; <a_start> video system
@@ -2576,7 +2573,6 @@
 <p_start> 수중 통신 ; <p_start> 심볼 내 간섭 ; <p_start> faster than nyquist ; <a_start> 다중 채널 ; <a_start> 천공 부호 ; <a_start> underwater communication ; <a_start> multipath ; <a_start> inter symbol interference ; <a_start> punctured codes
 <a_start> dcdc 컨버터 ; <a_start> 벅 컨버터 ; <a_start> 스위치 드 커패시터 컨버터 ; <a_start> 전력 효율 ; <a_start> dcdc converter ; <a_start> buck converter ; <a_start> switchedcapacitor converter ; <a_start> power efficiency
 <p_start> 나노와이어 gaa mosfet ; <p_start> floating body 현상 ; <a_start> 항복 전압 ; <a_start> nanowire gaa mosfet ; <a_start> breakdown voltage ; <a_start> floating body effect
-
 <p_start> sbas ; <a_start> sbas 기준 국 ; <a_start> 사이트 조사 ; <a_start> 가시 성 ; <a_start> 간섭 신호 ; <a_start> sbas reference station ; <a_start> site survey ; <a_start> visibility ; <a_start> interference
 <a_start> 수 문관 측 ; <a_start> 이동형 ; <a_start> 비 접촉 식 ; <a_start> 수위 계 ; <a_start> 교정 시스템 ; <a_start> hydrological observation ; <a_start> portable ; <a_start> non contact ; <a_start> water meter ; <a_start> calibration system
 <p_start> 다중화 ; <p_start> stochastic petri net package ; <a_start> 가용 도 ; <a_start> 재활 기법 ; <a_start> spnp ; <a_start> availability ; <a_start> redundant ; <a_start> rejuvenation
@@ -2829,7 +2825,6 @@
 <a_start> 딥 러닝 ; <a_start> 생 성 모델 ; <a_start> 변 분 순환 오토 인코더 ; <a_start> 한국어 문장 생 성 ; <a_start> 보간법 ; <a_start> deep learning ; <a_start> generative models ; <a_start> variational recurrent autoencoder ; <a_start> korean sentence generation ; <a_start> interpolation
 <a_start> wortschatzinformationssystem ; <a_start> lernerwrterbuch ; <a_start> opendictionaryproeditor ; <a_start> satzbeispiele ; <a_start> suchpfad
 <p_start> 한국어 ; <a_start> 단어 임베딩 ; <a_start> 군집 화
-
 <p_start> 랜덤 포레스트 ; <a_start> 상호 참조 해결 ; <a_start> 시브 가이드 자질 ; <a_start> coreference resolution ; <a_start> random forest ; <a_start> sieveguided features
 <p_start> 음절 ; <a_start> 발음 모델링 ; <a_start> 발음 변 이 ; <a_start> 운율 어 ; <a_start> 위치 정보 데이타 ; <a_start> pronunciation modeling ; <a_start> pronunciation variation ; <a_start> prosodic word ; <a_start> syllable ; <a_start> pointofinterest data
 <p_start> 평점 예측 ; <a_start> text mining ; <a_start> opinion mining ; <a_start> sentiment analysis ; <a_start> sentiment dictionary ; <a_start> rating prediction ; <a_start> 텍스트 마 이닝 ; <a_start> 오 피니언 마 이닝 ; <a_start> 감성 분석 ; <a_start> 감성 사전
@@ -2957,8 +2952,6 @@
 <p_start> support vector machines ; <a_start> 화행 분석 ; <a_start> 지지 벡터 기계 ; <a_start> 자질 선택 기계 학습 ; <a_start> speech act analysis ; <a_start> feature selection ; <a_start> machine learning
 <p_start> 사건 탐지 및 추적 ; <a_start> 시간 정보 추출 ; <a_start> temporal information extracting ; <a_start> event detection and tracking
 <a_start> 한국어 구문 분석 ; <a_start> 자연어 처리 ; <a_start> 언어 독립 적 모델 ; <a_start> 확률 모델 ; <a_start> 병렬 구조 ; <a_start> korean parsing ; <a_start> natural language processing ; <a_start> unsupervised probabilistic model ; <a_start> languageindependent model ; <a_start> parallel structure
-
-
 <p_start> 결속 구조 ; <p_start> 어순 변형 ; <a_start> 번역 글쓰기 ; <a_start> 정보 성 ; <a_start> 텍스트 ; <a_start> 주제 화 ; <a_start> 초점 화 ; <a_start> translation writing ; <a_start> informativity ; <a_start> cohesion ; <a_start> textuality ; <a_start> word order variation ; <a_start> topicalization ; <a_start> focalization
 <p_start> 델파이 ; <a_start> 다문화 가정 학생 ; <a_start> 켄달 w 검증 ; <a_start> 한 국어교육 프로그램 ; <a_start> delphi ; <a_start> kendalls w ; <a_start> korean language education ; <a_start> multiculture family students
 <p_start> svm ; <a_start> 감정 분류 ; <a_start> 감정 자질 추출 ; <a_start> 지지 벡터 기계 ; <a_start> sentiment classification ; <a_start> sentiment feature extraction
@@ -2975,11 +2968,8 @@
 <p_start> 워드넷 ; <p_start> 의미 처리 ; <p_start> 지식 공학 ; <p_start> korlex ; <a_start> 어휘 의미 망 ; <a_start> 코 렉스 ; <a_start> 다국어 처리 ; <a_start> wordnet ; <a_start> language resource ; <a_start> semantic processing ; <a_start> knowledge engineering ; <a_start> multilingual processing
 <a_start> 한 국어교육 ; <a_start> 실용 한국어 ; <a_start> 원 격 대학 ; <a_start> 인터넷 ; <a_start> 정보통 신 기술 ; <a_start> 수업 설계 ; <a_start> 학습 사태 ; <a_start> korean language education ; <a_start> practical korean language teaching ; <a_start> cyber university ; <a_start> internet ; <a_start> ict ( information communication technology ) ; <a_start> lesson planning ; <a_start> instruction events
 <p_start> 수화 ; <p_start> 손 모양 인식 ; <p_start> svm ; <a_start> sign language ; <a_start> hand posture recognition
-
-
 <p_start> 한국어 동사 활용 사전 ; <p_start> 표제어 ; <a_start> 규칙 동사 ; <a_start> 불규칙 동사 ; <a_start> 규칙 활용 ; <a_start> 불규칙 활용 ; <a_start> 종결어미 ; <a_start> 연결 어미 ; <a_start> 높이다 법 ; <a_start> korean verbal conjugation dictionary ; <a_start> headword ; <a_start> regular conjugation and verb ; <a_start> irregular conjugation and verb ; <a_start> coalescence ; <a_start> sentential ending ; <a_start> connective ending
 <p_start> 은닉 마르코프 모델 ; <p_start> 태깅 ; <p_start> hmm ; <a_start> 한국어 형태소 분석 기 ; <a_start> 동형 이의 어 ; <a_start> korean morphological analyzer ; <a_start> homograph ; <a_start> tagging
-
 <p_start> 사전 ; <p_start> 용어 ; <p_start> 인코딩 ; <p_start> martif ; <p_start> tei ; <a_start> 사전 항목 ; <a_start> 미시 구조 ; <a_start> 데이터 교환 ; <a_start> 마크 업
 <p_start> 정보화 ; <p_start> 정보기술 ; <p_start> gis ; <a_start> 직업 구조 ; <a_start> 지식 정보 직업 ; <a_start> 공간 적 분포 ; <a_start> 지리 정보 시스템 ; <a_start> occupational structure ; <a_start> knowledgeinformation occupations ; <a_start> informatization ; <a_start> information communication technology ; <a_start> spatial distribution
 <p_start> 트위터 이용자 ; <a_start> 자기 노출 ; <a_start> 경계 불 투과성 ; <a_start> sns ; <a_start> selfdisclosure ; <a_start> boundary impermeability ; <a_start> twitter users
@@ -2987,7 +2977,6 @@
 <a_start> 전산학 용어 ( terme informatique ) ; <a_start> 의미 역 ( rle actantiel ) ; <a_start> 격 ( cas ) ; <a_start> 조사 ( particule ) ; <a_start> 의미 태깅 ( annotation smantique )
 <p_start> 문장 내 영 대명사 ; <a_start> 문장 내 조 응 성 ; <a_start> 절 간의 결속 성 ; <a_start> 비조 응 적 ; <a_start> 조 응 적 ; <a_start> 조 응 현상 ; <a_start> intrasentential zero pronouns ; <a_start> intrasentential anaphoricity ; <a_start> cohesion between clauses ; <a_start> nonanaphoric ; <a_start> anaphoric ; <a_start> zero anaphora
 <p_start> 결합 학습 모델 ; <p_start> 파이프라인 ; <p_start> 품사 태깅 ; <p_start> latent structural svm ; <a_start> jointly learning model ; <a_start> pipeline ; <a_start> pos tagging
-
 <p_start> 학습자 사전 ; <p_start> 오류 말뭉치 ; <p_start> 연어 ; <p_start> usage ; <p_start> usage note ; <a_start> 표현 적 지식 ; <a_start> 용법 ; <a_start> 참고 상자 ; <a_start> learners dictionary ; <a_start> error corpus ; <a_start> collocations ; <a_start> productive knowledge
 <p_start> 감정 인식 ; <p_start> 피치 ; <a_start> 음성 파라 메터 ; <a_start> emotin recognition ; <a_start> speech parameter ; <a_start> pitch
 <a_start> 협력 형 디지털 참고 정보 서비스 ; <a_start> 디지털 참고 정보 서비스 ; <a_start> 글로벌 참고 정보 네트워크 ; <a_start> 한국 과학기술 정보 연구원 ; <a_start> question 포인트
@@ -3033,7 +3022,6 @@
 <p_start> 컨테이너 터미널 ; <p_start> 시뮬레이션 ; <a_start> 장치 장
 <p_start> 정규문법 ; <a_start> 일반 화 되다 이진 이차 재귀 신경망 ( generalized binary secondorder recurrent neural networks gbsrnn ) ; <a_start> 유한 오토마타 ; <a_start> 어휘 분석 기
 <a_start> 정보 출처 어휘 ; <a_start> 증거 성 표지 의 발달 ; <a_start> 언어 발달 ; <a_start> 한국어 발달 ; <a_start> evidential ; <a_start> evidentialrelated verbs ; <a_start> development of evidentiality ; <a_start> language acquisition ; <a_start> korean ; <a_start> 마음 이론 ; <a_start> 조 망 수용
-
 <p_start> 형태소 unigram ; <p_start> 형태소 범주 패턴 ; <p_start> 통계 정보 ; <a_start> 한국어 자동 띄어쓰기 ; <a_start> 어절 unigram ; <a_start> 음절 bigram ; <a_start> korean wordspacing ; <a_start> wordunigram ; <a_start> morphemeunigram ; <a_start> category pattern ; <a_start> stochastic information
 <p_start> 토픽 모델링 ; <p_start> lda ; <p_start> bisource 토픽 모델 ; <a_start> 이미지 연관 검색 ; <a_start> 기사 상품 연관 검색 ; <a_start> topic modeling ; <a_start> bisource topic model ; <a_start> associative image retrieval ; <a_start> articlegoods associative search
 <p_start> 의념 ; <a_start> nominalisertype negative question ; <a_start> provision of uncertain information ; <a_start> request for opinion ; <a_start> request for confirmation ; <a_start> doubt ; <a_start> 형식 명 사형 부정 의문문 ; <a_start> 불확실하다 정보 제공 ; <a_start> 의견 요구 ; <a_start> 확인 요구
@@ -3042,7 +3030,6 @@
 <a_start> 유럽 공통 참조 기준 ; <a_start> common european framework ) ; <a_start> 유럽 언어 포트폴리오 ; <a_start> european language portfolio ) ; <a_start> 사회 적 행위자 ; <a_start> social agent ) ; <a_start> 다언어 다문화 적 체험 ; <a_start> plurilingual and pluricultural experiences ) ; <a_start> 자기 평가 ; <a_start> selfassessment ) ; <a_start> 철자 오류 일지 ; <a_start> the journal of spelling errors )
 <p_start> 감정 분류 ; <p_start> 감정 자질 ; <p_start> 감정 강도 ; <a_start> 자질 가중 치 ; <a_start> sentiment classification ; <a_start> feature weighting ; <a_start> sentiment feature ; <a_start> sentiment intensity
 <p_start> 한국어 ; <a_start> 산출 발달 ; <a_start> 마음 이론 ; <a_start> 언어 발달 ; <a_start> language development ; <a_start> evidentials ; <a_start> evidentiality ; <a_start> development of evidentiality ; <a_start> theory of mind ; <a_start> 하다 주의 하다 ; <a_start> 기질 유아
-
 <p_start> 형태소 분석 ; <a_start> 자동 색인 ; <a_start> 개발 도구 ; <a_start> 2 단계 형태소 분석 모델
 <p_start> 뉴스 데이터 분석 ; <a_start> 형태소 기반 연속 음성인식 ; <a_start> news data analysis ; <a_start> morpheme based csr
 <p_start> classification ; <p_start> universal decimal classification ; <a_start> 국제 십진분류법 ; <a_start> 분류 표 ; <a_start> 준 열거 식 분류 표 ; <a_start> semienumerative classification
@@ -3053,20 +3040,16 @@
 <p_start> 시소러스 ; <p_start> 온톨로지 ; <a_start> 한국어 시소러스 ; <a_start> 온톨로지 개발 ; <a_start> 개념 관계 ; <a_start> 용어 풀
 <p_start> 다문화 가정 ; <p_start> 어머니 ; <a_start> 자녀 양육 ; <a_start> multicultural families ; <a_start> mothers ; <a_start> child rearing
 <p_start> 있다 ; <p_start> 있다 ; <a_start> natural language processing ; <a_start> koreanchinese corresponding grammatical structures ; <a_start> machine translation
-
 <a_start> 분야 연 상어 ; <a_start> 화제 분야 의 추적 방법 ; <a_start> 화제 분야 의 계산 방법 ; <a_start> 단락 검색 ; <a_start> fieldassociated term ; <a_start> tracing topic field ; <a_start> calculation method for topic field ; <a_start> passage retrieval
 <p_start> 이민자 ; <a_start> 전통 뉴스 매체 ; <a_start> 뉴스 웹 ; <a_start> 정치사 회화 ; <a_start> traditional news media ; <a_start> news web ; <a_start> political socialization ; <a_start> immigrants
 <p_start> 멘토링 ; <a_start> 다문화 가정 어머니 ; <a_start> 자녀 양육 ; <a_start> mothers of multicultural families ; <a_start> mentoring ; <a_start> child rearing
 <p_start> 선형 정렬 ; <p_start> 한국어 형태소 분리 ; <a_start> 자율 학습 ; <a_start> unsupervised learning ) ; <a_start> 편집 거리 ; <a_start> edit distance ) ; <a_start> linear alignment ) ; <a_start> 한 영영 한 음차 복원 ; <a_start> koreanenglish ; <a_start> back ) transliteration ) ; <a_start> 음소 자소 변환 ; <a_start> graphemephoneme conversion ) ; <a_start> korean morphological segmentation )
 <p_start> 뇌파 ; <p_start> egi ; <a_start> 시선 입력 인터페이스 ; <a_start> 흡착 효과 ; <a_start> eeg ( electroencephalogram ) ; <a_start> snap up
-
-
 <p_start> 휴식 ; <p_start> 통제 ; <a_start> 직무 스트레스 회복 척도 ; <a_start> 타당도 ; <a_start> 심리 적 분리 ; <a_start> 자기 성취 ; <a_start> job stress ; <a_start> recovery experience ; <a_start> questionnaire validation
 <a_start> 번역학 ( traductologie ) ; <a_start> 지명 ( toponymes ) ; <a_start> ( 그대로 옮기다 ) 전사 ( report ) ; <a_start> 본문 정보 삽입 ( incrmentialisation ) ; <a_start> 한글 로마 자표 기법 transcription ( enlettres latines ) de lalphabet coren
 <p_start> 온톨로지 ; <a_start> 시 맨 틱 웹 ; <a_start> ontology ; <a_start> owl ; <a_start> semantic web
 <p_start> 언어 발달 ; <a_start> 증거 성 표지 이해 ; <a_start> 한국어 ; <a_start> language development ; <a_start> evidnetials ; <a_start> trust in testimony ; <a_start> information certainty ; <a_start> cognitive development ; <a_start> korean ; <a_start> 말 의 음성 적 특성 ; <a_start> 말 의 내용
 <a_start> 이 주민 건강 ; <a_start> 헬스 커뮤니케이션 ; <a_start> 이 주민 권한 강화 ; <a_start> immigrants health ; <a_start> health communication ; <a_start> immigrant empowerment
-
 <p_start> 과거 시제 ; <p_start> 오류 분석 ; <a_start> 오류 유형 ; <a_start> 한국어 교육 ; <a_start> past tense ; <a_start> error analysis ; <a_start> error type ; <a_start> korean education for foreigners
 <p_start> 시소러스 ; <p_start> 용어사전 ; <a_start> 통합 개념 체계 ; <a_start> 지식베이스 ; <a_start> 분류 표 ; <a_start> 다국어 시소러스
 <p_start> 한류 ; <a_start> 한국 대중문화 ; <a_start> 질문 지법 ; <a_start> 일본 과 중국 에서의 한류 의 수용 양상 ; <a_start> korean pop culture ; <a_start> han ryu ( korean wave ) ; <a_start> questionnaires ; <a_start> the aspect of han ryu ( korean wave ) in japan and china
@@ -3091,17 +3074,11 @@
 <p_start> 화제 ; <a_start> 구 정보 ) 초점 ; <a_start> 신 정보 ) 정보 구조 에서의 생략 ; <a_start> toacute ; <a_start> pico ; <a_start> informacioacute ; <a_start> n conocida ) foco ; <a_start> informacioacute ; <a_start> n nueva ) elisioacute ; <a_start> n en la estructura informativa
 <p_start> 버들 매치 ; <a_start> 왜 매치 ; <a_start> 모래 주사 속 ; <a_start> 분자 계통 ; <a_start> rag 1 유전자
 <p_start> 온톨로지 ; <p_start> 추론 ; <a_start> 의미 유사 도 ; <a_start> 질의 응답 시스템
-
 <p_start> isoiec 14651 ; <p_start> ucs ; <a_start> 한글 공학 ; <a_start> hangeul engineering ) ; <a_start> 한국어 정보처리 ; <a_start> hangeul information processing ) ; <a_start> 한글 정렬 ; <a_start> hangeul ordering )
 <a_start> 재난 관리 커뮤니케이션 ; <a_start> 재난 위기 정보 ; <a_start> 재난 관리 pr ; <a_start> 월간 재난 종합 상황 분석 및 전망 ; <a_start> contents analysis by the krkwic program ; <a_start> disaster information ; <a_start> pr for the disaster management ; <a_start> monthly publication of the disaster analysis prospect in nema
-
-
 <p_start> 가족 역할 ; <p_start> 결혼 지위 ; <p_start> 부모 지위 ; <p_start> 신체 및 정신 건강 ; <p_start> 남녀 차이 ; <a_start> marital status ; <a_start> parental status ; <a_start> physical health ; <a_start> mental health ; <a_start> gender inequality ; <a_start> gender difference
 <a_start> 문학 번역 ( traduction littraire ) ; <a_start> 품질 평가 ( valuation qualitative ) ; <a_start> 기준 ( critresparamtres ) ; <a_start> 의미 ( sens ) ; <a_start> 형태 ( forme ) ; <a_start> 일치 ( congruence )
-
 <p_start> it ; <a_start> 노동 생산 성 ; <a_start> 기술 혁신 ; <a_start> 고용 창 추다 ; <a_start> 산업 연관 분석 ; <a_start> labor productivity ; <a_start> it innovation ; <a_start> imployment ; <a_start> displacement and compensatory effect
-
-
 <p_start> 전문가 ; <a_start> 사회 적 구성 주의 ; <a_start> 새만금 개발 사업 ; <a_start> social constructionism ; <a_start> expert ; <a_start> saemangeum project
 <a_start> 다문화 가정 ; <a_start> 결혼 이주 여성 ; <a_start> 양육 효능 감 ; <a_start> 집단 상담 ; <a_start> multicultural families ; <a_start> marriage immigrant ; <a_start> parental selfefficacy ; <a_start> group counseling
 <p_start> population projection ; <a_start> 장래 인구 추계 ; <a_start> hamiltonperry 방법 ; <a_start> 기초 자치 단체 의 인구 추계 ; <a_start> hp ( hamiltonperry ) method ; <a_start> small area projection
@@ -5307,7 +5284,6 @@
 <p_start> 포인트 클라우드 ; <p_start> 매칭 ; <p_start> 주성분 분석 ; <p_start> ransac ; <a_start> 랜삭 ; <a_start> 반복 법 ; <a_start> 건설 ; <a_start> 건물 ; <a_start> 3 차원 스캐너 ; <a_start> point cloud ; <a_start> iterative method ; <a_start> matching ; <a_start> 3 d scanner ; <a_start> building ; <a_start> pca
 <p_start> rtems ; <p_start> gpl ; <p_start> 실시간 운영체제 ; <p_start> virtio ; <p_start> 오픈소스 소프트웨어 ; <p_start> 가상화 ; <p_start> gpl ; <p_start> virtio ; <a_start> rtos ; <a_start> opensource software ; <a_start> virtualization
 <p_start> 적외선 표적 모델링 ; <p_start> 표면온도 해석 ; <p_start> oktalse ; <a_start> 복합 열 해석 ; <a_start> 센서 융합 모델링 ; <a_start> infrared modeling ; <a_start> surface temperature ; <a_start> conjugate heat transfer analysis ; <a_start> sensor fusion modeling
-
 <a_start> 분위 수 회귀 ; <a_start> 적합 도 검정 ; <a_start> 투수 연봉 ; <a_start> 한국 프로야구 ; <a_start> goodness of fit test ; <a_start> korean professional baseball ; <a_start> pitcher salary ; <a_start> quantile regression
 <p_start> 단어 표상 ; <p_start> 음절 ; <a_start> 개체 명 인식 ; <a_start> bilstmcrfs ; <a_start> named entity recognition ; <a_start> word representation ; <a_start> syllable
 <p_start> 스마트워치 ; <p_start> 키 교환 프로토콜 ; <a_start> 스마트폰 ; <a_start> u 헬 스케 어 서비스 ; <a_start> uhealthcare services ; <a_start> smartwatch ; <a_start> smartphone ; <a_start> key exchange protocol
@@ -6012,10 +5988,8 @@
 <p_start> 예측 ; <p_start> 유전자 알고리즘 ; <a_start> 역전 파 ; <a_start> 유전자 신경망 ; <a_start> 초기 가중 값 ; <a_start> backpropagation ; <a_start> forecasting ; <a_start> gabp ; <a_start> genetic algorithm ; <a_start> initial weight
 <a_start> 라 쏘다 변수 선택 순위 그림 ; <a_start> 라 쏘다 영향 그림 ; <a_start> 삼차원 라 쏘다 영향 그림 ; <a_start> 영향 점 ; <a_start> influential observations ; <a_start> lasso influence plot ; <a_start> lasso variable selection ranking plot ; <a_start> threedimensional lasso influence plot
 <p_start> 모수 추정 ; <p_start> davidonfletcherpowell ; <p_start> differential evolution ; <p_start> genetic algorithm ; <p_start> neldermead ; <a_start> 격차 진화 ; <a_start> 유전자알고리즘 ; <a_start> 확률 적 강우 모의 모형 ; <a_start> parameter estimation ; <a_start> stochastic rainfall generation model
-
 <a_start> 기 대 게임 수 ; <a_start> 독립 시행 ; <a_start> 베르누이 시행 ; <a_start> 우승 확률 ; <a_start> bernoulli trial ; <a_start> expected number of the game ; <a_start> independent trial ; <a_start> winning probability
 <p_start> 간호사 ; <p_start> 프리 젠티즘 ; <a_start> 건강 문제 ; <a_start> 부감 감 ; <a_start> 업 무량 ; <a_start> compliance rate ; <a_start> metabolic syndrome risk factors ; <a_start> health center
-
 <p_start> 빅데이터 ; <p_start> 다중 회귀 ; <p_start> multiple regression ; <p_start> logistic regression ; <p_start> rhadoop ; <p_start> rhipe ; <a_start> 로지 스틱 회귀 ; <a_start> big data
 <a_start> 일 중 가격 모멘텀 ; <a_start> j 자형 가격 패턴 ; <a_start> dtw ( dynamic time warping ) ; <a_start> intraday price momentum ; <a_start> jshaped price pattern
 <a_start> 이질 성 ; <a_start> 중단 자료 ; <a_start> 패널 토빗 모형 ; <a_start> 한계 효과 ; <a_start> 합동 토비 모형 ; <a_start> censored data ; <a_start> heterogeneity ; <a_start> marginal effect ; <a_start> panel tobit model ; <a_start> pooled tobit model
@@ -9168,7 +9142,6 @@
 <p_start> 보자기 ; <a_start> 영 조 정순왕후 가례 도감 의궤 ; <a_start> 전통 의례 문화 ; <a_start> 생활 문화 ; <a_start> bojagi ; <a_start> yeongjo jeongsun wanghu garye dogam uigwe ; <a_start> ceremonial cultural heritage contents ; <a_start> living culture
 <p_start> 나눔 ; <p_start> 배려 ; <p_start> 공감 ; <p_start> 소통 ; <a_start> 인생 나눔 교실 ; <a_start> life sharing class ; <a_start> sharing ; <a_start> caring ; <a_start> empathy ; <a_start> communication
 <p_start> 뮤지컬 ; <p_start> 다큐멘터리 ; <p_start> back stage ; <a_start> 다큐멘터리 사진 ; <a_start> 백 스테이지 ; <a_start> 브로드웨이 42 번가 ; <a_start> documentary picture ; <a_start> musical ; <a_start> documentary ; <a_start> musical 42 nd street
-
 <p_start> scada ; <a_start> 망간 자료 전송 기술 ; <a_start> 빌딩 시설 관리 제 어망 ; <a_start> scada 시스템 ; <a_start> 망 분리 ; <a_start> building control ; <a_start> control network ; <a_start> network separation ; <a_start> security
 <p_start> 음성인식 에이전트 ; <p_start> 사용자 경험 ; <a_start> 차량 용 인포테인먼트 서비스 ; <a_start> 에이전트 퍼소나 speech recognition agent ; <a_start> invehicle infotainment system ; <a_start> user experience ; <a_start> agent persona
 <p_start> 주제 분류 ; <a_start> 과학기술 정보 ; <a_start> 논문 데이터 ; <a_start> 학술 논문 ; <a_start> 정보 서비스 ; <a_start> science technology information ; <a_start> research data ; <a_start> academic paper ; <a_start> subject classification ; <a_start> information service
