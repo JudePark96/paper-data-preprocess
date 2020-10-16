@@ -82,5 +82,12 @@ def load_json_data(src_path: str, is_eot_token: bool = False):
         f.close()
 
 
+def write_txt_line_by_line(output_path: str, lines: List[str]) -> None:
+    with open(output_path, 'w', encoding='utf-8') as f:
+        for line in tqdm(lines, desc=f'{output_path}'):
+            f.write(line + '\n')
+        f.close()
+
+
 if __name__ == '__main__':
     load_json_data('./rsc/combine_paper_data.json')
